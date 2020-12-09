@@ -5,4 +5,4 @@
 ## One of the possible types power supplies
 <img src=ImageModel/Liner_power_block_v1.0.png width="750" height="450"> 
 <img src=ImageModel/Liner_power_block_v2.PNG width="750" height="450">
-##
+
